@@ -16,12 +16,12 @@
 <br />
 
 <img height="200" align="right" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
-<img height="200" align="right"  src="https://assets.stickpng.com/thumbs/5848152fcef1014c0b5e4967.png">
+<img height="200" align="right"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
 
 #### 🌱 I’m currently learning:
 
 <span>
-  <img width="40px" height="40px" src="https://lh3.googleusercontent.com/proxy/cMfQzLbnIiQ8I9gPW1j5NaevIIri7HSGDeGu2ESZpb_Hv1eW_2LZlWtHF_iYk7DQ6xRslttyTP6pGWczHVoEi4V-ioPNRQ8RiheNx1VWjv74lm56V3o" alt="VueJs"/>
+  <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/220px-Vue.js_Logo_2.svg.png" alt="VueJs"/>
 </span>
 <br />
 
