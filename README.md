@@ -16,7 +16,7 @@
 <br />
 
 <img height="200" align="right" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
-<img height="200" align="right"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+<img height="200" align="right"  src="https://user-images.githubusercontent.com/46997126/97579529-1462e800-19ea-11eb-8bc8-22dd7ba60a27.png">
 
 #### 🌱 I’m currently learning:
 
