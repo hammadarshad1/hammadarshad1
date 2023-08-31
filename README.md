@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning [VueJs](https://github.com/vuejs/vue); 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I am a student of Computer Science;
-- 📫 How to reach me: hammadarshad010@gmail.com;
+- 📫 How to reach me: hammadarshad834@gmail.com;
 <br />
 
 <img height="200" align="right" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
