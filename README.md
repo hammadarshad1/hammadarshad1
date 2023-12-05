@@ -9,7 +9,7 @@
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on [Django](https://github.com/django/django);
-- 🌱 I’m currently learning [VueJs](https://github.com/vuejs/vue); 
+- 🌱 I’m currently learning [Swift](https://github.com/apple/swift);
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I am a student of Computer Science;
 - 📫 How to reach me: hammadarshad834@gmail.com;
