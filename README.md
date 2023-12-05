@@ -21,7 +21,7 @@
 #### 🌱 I’m currently learning:
 
 <span>
-  <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/220px-Vue.js_Logo_2.svg.png" alt="VueJs"/>
+  <img width="130px" height="130px" src="https://www.swift.org/assets/images/swift~dark.svg" alt="Swift"/>
 </span>
 <br />
 
