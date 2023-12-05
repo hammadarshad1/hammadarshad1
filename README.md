@@ -19,7 +19,6 @@
 <img height="200" align="right"  src="https://user-images.githubusercontent.com/46997126/97579529-1462e800-19ea-11eb-8bc8-22dd7ba60a27.png">
 
 #### 🌱 I’m currently learning:
-
 <span>
   <img width="130px" height="130px" src="https://www.swift.org/assets/images/swift~dark.svg" alt="Swift"/>
 </span>
